@@ -11,6 +11,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass'
 gem 'bootswatch-rails'
 gem 'simple_form'
+gem 'devise'
 
 group :development, :test do
   gem 'sqlite3'
